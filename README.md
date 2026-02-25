@@ -1,2 +1,2 @@
 # day9_core_training
-Optimized the model by increasing layers and adding dropout to improve accuracy and reduce overfitting.
+Introduced validation split to monitor model generalization and detect overfitting.
